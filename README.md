@@ -1,3 +1,3 @@
 # apnaDemo
 1st git repository
-Author=Anshul Thakur
+Author=Anshul Thakur(Apna College)
